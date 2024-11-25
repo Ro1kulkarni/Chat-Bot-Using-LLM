@@ -20,11 +20,4 @@ EliteThinker AI is an advanced chatbot application powered by LangChain and GPT-
 - **Other Tools:**  
   - [dotenv](https://pypi.org/project/python-dotenv/) for environment management  
 
----
-
-## 🧑‍💻 Installation & Setup  
-
-### 1. Clone the Repository  
-```bash  
-git clone https://github.com/your-username/EliteThinker-AI.git  
-cd EliteThinker-AI  
+--- 
